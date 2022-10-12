@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Relinton/AspNetCorePaginacaoDataTable/blob/main/LICENSE) 
 
 # Sobre o projeto
-Projeto desenvolvido com Asp Net Core Mvc, com intuito de criar paginação de tabelas responsivas com o o auxílio do plugin DataTable, e extrair essas informações contidas para um gráfico para melhor análise dos dados, através do HighCharts...
+Projeto desenvolvido com Asp Net Core Mvc, com intuito de criar paginação com tabelas responsivas com o auxílio do plugin DataTable, e extrair essas informações contidas para um gráfico para melhor análise dos dados, através do HighCharts...
 
 ## Layout web
 ![pag1](https://user-images.githubusercontent.com/32855779/195465902-c47b33cb-2095-49cb-a481-38bab771e731.PNG)
@@ -13,6 +13,9 @@ Projeto desenvolvido com Asp Net Core Mvc, com intuito de criar paginação de t
 # Tecnologias utilizadas
 ## Front end
 - HTML / JS / DataTable / HighCharts
+
+## Back end
+- C# / JS
 
 # Autor
 
