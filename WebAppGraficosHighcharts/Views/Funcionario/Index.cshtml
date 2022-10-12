@@ -1,0 +1,51 @@
+﻿@model WebAppGraficosHighcharts.ViewModel.IndexFuncionarioViewModel
+
+@{
+    ViewData["Title"] = "Paginação de Funcionários";
+}
+
+@section Head{
+    <partial name="Css\_datatables" />
+    <partial name="Css\_bootstrap-select" />
+}
+
+<div class="container">
+    <nav aria-label="breadcrumb" role="navigation">
+        <ol class="breadcrumb mb-0 pl-0">
+            <li class="breadcrumb-item active" aria-current="page">@ViewData["Title"]</li>
+        </ol>
+    </nav>
+</div>
+
+<div class="container">
+    <div class="card mt-0">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h3 class="title">@ViewData["Title"]</h3>
+                </div>
+
+                <div class="col-12">
+                    <partial name="Partials\_FiltroFuncionarios" />
+                </div>
+
+                <div class="col-12">
+                    <div id="grafico-funcionarios" style="width:100%; height:100%;"></div>
+                </div>
+
+                <div class="col-12" id="tabela-partial">
+                    <partial name="Partials\_TabelaFuncionarios" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="Script\_datatables" />
+    <partial name="Script\_highCharts" />
+    <partial name="Script\_bootstrap-select" />
+
+    <script src="~/js/filtroFuncionarios.js"></script>
+    <script src="~/js/grafico.js"></script>
+}

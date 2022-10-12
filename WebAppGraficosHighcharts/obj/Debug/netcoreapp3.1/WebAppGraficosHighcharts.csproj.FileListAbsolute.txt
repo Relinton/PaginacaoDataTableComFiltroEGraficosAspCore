@@ -1,0 +1,451 @@
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.exe
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.deps.json
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.json
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.dev.json
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\DotNet.Highcharts.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.AssemblyReference.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfoInputs.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfo.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CoreCompileInputs.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.MvcApplicationPartsAssemblyInfo.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\staticwebassets\WebAppGraficosHighcharts.StaticWebAssets.Manifest.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\staticwebassets\WebAppGraficosHighcharts.StaticWebAssets.xml
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAppGraficosHighcharts.styles.css
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.input.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.output.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorCoreGenerate.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Avaliacao.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cs
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CopyComplete
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.genruntimeconfig.cache
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsec.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsecCS.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+D:\Relinton Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Highcharts.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.json
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.exe
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.deps.json
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.json
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.dev.json
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\DotNet.Highcharts.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsec.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsecCS.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Highcharts.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.AssemblyReference.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.GeneratedMSBuildEditorConfig.editorconfig
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfoInputs.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfo.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CoreCompileInputs.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.MvcApplicationPartsAssemblyInfo.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\staticwebassets\WebAppGraficosHighcharts.StaticWebAssets.Manifest.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\staticwebassets\WebAppGraficosHighcharts.StaticWebAssets.xml
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAppGraficosHighcharts.styles.css
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.input.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.output.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorCoreGenerate.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Avaliacao.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CopyComplete
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.genruntimeconfig.cache
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index3.cshtml.g.cs
+D:\pendrive\Sistemas\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index4.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.json
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.StaticWebAssets.xml
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.exe
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.deps.json
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.json
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.dev.json
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\DotNet.Highcharts.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsec.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsecCS.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Highcharts.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.AssemblyReference.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfoInputs.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfo.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CoreCompileInputs.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.MvcApplicationPartsAssemblyInfo.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\staticwebassets\WebAppGraficosHighcharts.StaticWebAssets.Manifest.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.input.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.output.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorCoreGenerate.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Avaliacao.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index3.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index4.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cache
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cs
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CopyComplete
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+E:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.genruntimeconfig.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\appsettings.json
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.exe
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.deps.json
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.json
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.runtimeconfig.dev.json
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\DotNet.Highcharts.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsec.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FParsecCS.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\WebSharper.Highcharts.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.AssemblyReference.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfoInputs.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.AssemblyInfo.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CoreCompileInputs.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.MvcApplicationPartsAssemblyInfo.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorAssemblyInfo.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\staticwebassets\WebAppGraficosHighcharts.StaticWebAssets.Manifest.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\staticwebassets\WebAppGraficosHighcharts.StaticWebAssets.xml
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAppGraficosHighcharts.styles.css
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.input.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.TagHelpers.output.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorCoreGenerate.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Avaliacao.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index3.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index4.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.RazorTargetAssemblyInfo.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.Views.pdb
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.csproj.CopyComplete
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.dll
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.pdb
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\WebAppGraficosHighcharts.genruntimeconfig.cache
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Index.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Css\_bootstrap-select.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Css\_datatables.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Script\_bootstrap-select.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Script\_datatables.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Script\_highCharts.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Partials\_TabelaFuncionarios.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Partials\_FiltroFuncionarios.cshtml.g.cs
+G:\WebAppGraficosHighcharts\WebAppGraficosHighcharts\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs

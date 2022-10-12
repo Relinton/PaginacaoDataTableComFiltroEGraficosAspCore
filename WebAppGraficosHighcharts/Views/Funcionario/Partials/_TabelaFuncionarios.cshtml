@@ -1,0 +1,62 @@
+﻿@model WebAppGraficosHighcharts.ViewModel.TabelaFuncionarioViewModel
+
+@if (Model != null)
+{
+    <table id="tabela-funcionarios" class="table table-hover table-light" style="width: 100%; " data-order="[]">
+        <thead style="width: 100%; white-space:nowrap">
+            <tr>
+                @if (Model.FuncionariosEmpresa.Any())
+                {
+                    <th>Empresas</th>
+                    <th class="text-center">Qtd Funcionários</th>
+                }
+                else if (Model.FuncionariosCargo.Any())
+                {
+                    <th>Cargos</th>
+                    <th class="text-center">Qtd Funcionários</th>
+                }
+
+                else
+                {
+                    <th>Contratos</th>
+                    <th class="text-center">Qtd Funcionários</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.FuncionariosEmpresa.Any())
+            {
+                @foreach (var funcionario in Model.FuncionariosEmpresa)
+                {
+                    <tr>
+                        <td>@funcionario.Empresa</td>
+                        <td class="text-center">@funcionario.QtdFuncionarios</td>
+                    </tr>
+                } }
+
+            else if (Model.FuncionariosCargo.Any())
+            {
+                @foreach (var funcionario in Model.FuncionariosCargo)
+                {
+                    <tr>
+                        <td>@funcionario.Cargo</td>
+                        <td class="text-center">@funcionario.QtdFuncionarios</td>
+                    </tr>
+                } }
+
+            else
+            {
+                @foreach (var funcionario in Model.FuncionariosContrato)
+                {
+                    <tr>
+                        <td>@funcionario.Contrato</td>
+                        <td class="text-center">@funcionario.QtdFuncionarios</td>
+                    </tr>
+                }}
+        </tbody>
+    </table>
+}
+else
+{
+    <div>Nenhum registro encontrado</div>
+}

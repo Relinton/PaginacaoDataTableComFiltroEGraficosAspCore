@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+<head>
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+    <script>
+        google.charts.load('current', { packages: ['corechart'] });
+        function desenharGrafico() {
+            var tabela = new google.visualization.DataTable();
+            tabela.addColumn('string', 'avaliacao');
+            tabela.addColumn('number', 'resultado');
+            tabela.addRows(
+                [
+                    ['Péssimo', 50],
+                    ['Ruim', 70],
+                    ['Indiferente', 20],
+                    ['Bom', 100],
+                    ['Ótimo', 250]
+                ]);
+
+            var opcoes = {
+                'title': 'Resultado Avaliação',
+                'hight': 300,
+                'width': 800,
+                is3D: true,
+                legend: 'labeled',
+                pieSliceText: 'value',
+                //colors: ['red', 'yellow', 'purple', 'blue', 'green']
+                slices: {
+                    0: { color: 'red' },
+                    1: { color: 'grey' },
+                    2: { color: 'purple' },
+                    3: { color: 'blue' },
+                    4: { offset: 0.2, color: 'green' },
+                }
+            };
+            var grafico = new google.visualization.PieChart(document.getElementById('graficoPizza'));
+            grafico.draw(tabela, opcoes);
+        }
+
+        google.charts.setOnLoadCallback(desenharGrafico);
+
+    </script>
+
+</head>
+<body>
+    <div id="graficoPizza"></div>
+</body>
+</html>
+

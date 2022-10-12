@@ -1,0 +1,85 @@
+﻿@model IEnumerable<WebAppGraficosHighcharts.Models.Avaliacao>
+@{
+    ViewData["Title"] = "Index4";
+}
+
+<div style="overflow-x:auto;">
+    <table class="table table-striped table-responsive">
+        <tr>
+            <th>Péssimo</th>
+            <th>Ruim</th>
+            <th>Indiferente</th>
+            <th>Bom</th>
+            <th>Ótimo</th>
+        </tr>
+        <tr>
+            @foreach (var item in Model)
+            {
+                <td><p id="pessimo">@item.Pessimo</p></td>
+                <td><p id="ruim">@item.Ruim</p></td>
+                <td><p id="indiferente">@item.Indiferente</p></td>
+                <td><p id="bom">@item.Bom</p></td>
+                <td><p id="otimo">@item.Otimo</p></td>
+            }
+        </tr>
+    </table>
+</div>
+
+<html>
+<head>
+    <script>
+        const pessimo = document.getElementById("pessimo").innerHTML;
+        let ruim = document.getElementById("ruim").innerHTML;
+        let indiferente = document.getElementById("indiferente").innerHTML;
+        let bom = document.getElementById("bom").innerHTML;
+        let otimo = document.getElementById("otimo").innerHTML;
+        console.log(pessimo, ruim, indiferente, bom, otimo)
+    </script>
+
+
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+    <script>
+        google.charts.load('current', { packages: ['corechart'] });
+        function desenharGrafico() {
+            var tabela = new google.visualization.DataTable();
+            tabela.addColumn('string', 'avaliacao');
+            tabela.addColumn('number', 'resultado');
+            tabela.addRows(
+                [
+                    ['Péssimo', parseInt(pessimo)],
+                    ['Ruim', parseInt(ruim)],
+                    ['Indiferente', parseInt(indiferente)],
+                    ['Bom', parseInt(bom)],
+                    ['Ótimo', parseInt(otimo)]
+                ]);
+
+            var opcoes = {
+                'title': 'Resultado Avaliação',
+                'hight': 300,
+                'width': 800,
+                is3D: true,
+                legend: 'labeled',
+                pieSliceText: 'value',
+                //colors: ['red', 'yellow', 'purple', 'blue', 'green']
+                slices: {
+                    0: { color: 'red' },
+                    1: { color: 'grey' },
+                    2: { color: 'purple' },
+                    3: { color: 'blue' },
+                    4: { offset: 0.2, color: 'green' },
+                }
+            };
+            var grafico = new google.visualization.PieChart(document.getElementById('graficoPizza'));
+            grafico.draw(tabela, opcoes);
+        }
+
+        google.charts.setOnLoadCallback(desenharGrafico);
+
+    </script>
+
+</head>
+<body>
+    <div id="graficoPizza"></div>
+</body>
+</html>
+

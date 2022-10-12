@@ -1,0 +1,42 @@
+﻿/*para o item que vier selecionado não ficar quase invisivel*/
+.bootstrap-select > .dropdown-toggle.bs-placeholder, .bootstrap-select > .dropdown-toggle.bs-placeholder:hover, .bootstrap-select > .dropdown-toggle.bs-placeholder:focus, .bootstrap-select > .dropdown-toggle.bs-placeholder:active {
+    color: black;
+}
+
+/*para o select não ficar desalinhado*/
+.btn.dropdown-toggle.btn-link.bs-placeholder, .btn.dropdown-toggle.btn-link {
+    margin-bottom: 0%;
+    margin-top: 0%;
+    padding: 7px 0px !important;
+}
+
+/*para descrição no dropdown*/
+div.filter-option-inner-inner {
+    color: black;
+    font-size: 14px;
+}
+
+/*para retirar "borda" preta*/
+.btn.dropdown-toggle.btn-link:focus {
+    outline: none !important;
+}
+
+/*para alinhar select com outros inputs*/
+.form-control, label, input::placeholder {
+    line-height: 20px;
+}
+
+/* para corrigir posição dropdown select-picker no mobile */
+@media only screen and (max-width: 900px) {
+    div.dropdown.bootstrap-select.form-control.dropup.show div.dropdown-menu.show {
+        position: initial !important;
+        /*left: 0px !important;*/
+        /*width: inherit;*/
+    }
+
+    div.dropdown.bootstrap-select.form-control.show div.dropdown-menu.show {
+        position: initial !important;
+        /*left: 0px !important;*/
+        /*width: inherit;*/
+    }
+}

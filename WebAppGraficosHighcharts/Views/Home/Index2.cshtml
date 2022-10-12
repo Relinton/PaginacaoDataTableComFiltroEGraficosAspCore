@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Index2";
+}
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<div id="chart_div" style="width: 900px; height: 500px;"></div>
+<script type="text/javascript">
+
+    google.charts.load('current', {packages: ['corechart', 'bar']});
+    google.charts.setOnLoadCallback(CarregaDados);
+    function CarregaDados() {
+        $.ajax({
+            url: '@Url.Action("BuscarAvaliacoes", "Home")',
+            dataType: "json",
+            type: "GET",
+            error: function(xhr, status, error) {
+                var err = eval("(" + xhr.responseText + ")");
+                toastr.error(err.message);
+            },
+            success: function(data) {
+                GraficoAvaliacao(data);
+                return false;
+            }
+        });
+        return false;
+    }
+    function GraficoAvaliacao(data) {
+        var dataArray = [
+            ['Pessimo', 'Ruim' , 'Indiferente', 'Bom', 'Otimo']
+        ];
+        $.each(data, function(i, item) {
+            dataArray.push([item.pessimo, item.ruim, item.indiferente, item.bom, item.otimo]);
+        });
+        var data = google.visualization.arrayToDataTable(dataArray);
+        var options = {
+            title: 'Avaliação do Portal',
+            chartArea: {
+                width: '50%'
+            },
+            colors: ['#b0120a', '#ffab91'],
+            hAxis: {
+                title: 'Avaliação do Portal de Cursos Online',
+                minValue: 0
+            },
+            vAxis: {
+                title: 'Pessimo'
+            }
+        };
+        var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+        return false;
+    }
+</script>
+

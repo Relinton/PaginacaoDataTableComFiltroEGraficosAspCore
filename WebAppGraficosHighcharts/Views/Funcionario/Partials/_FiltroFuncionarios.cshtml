@@ -1,0 +1,17 @@
+﻿@model WebAppGraficosHighcharts.ViewModel.FiltroFuncionarioViewModel
+@using WebAppGraficosHighcharts.Models.Enum
+
+<form asp-controller="Funcionario" asp-action="Filtrar" id="form-filtro-funcionarios" autocomplete="off">
+    <div class="form-row">
+
+        <div class="form-group col-lg-2 col-sm-12">
+            <select asp-items="Html.GetEnumSelectList<ETipoConsulta>()" asp-for="TipoDeConsulta" class="form-control selectpicker"></select>
+        </div>
+
+        <div class="form-group col-sm-12 text-center">
+            <button type="submit" class="btn btn-primary btn-round col-md-6">
+                <i class="fa fa-filter" aria-hidden="true"></i> Filtrar
+            </button>
+        </div>
+    </div>
+</form>
