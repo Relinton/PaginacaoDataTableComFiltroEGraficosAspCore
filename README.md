@@ -1,5 +1,3 @@
-# PaginacaoDataTableComFiltroEGraficosAspCore
-
 # Paginação com DataTable, Filtro E Graficos HighCharts
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Relinton/AspNetCorePaginacaoDataTable/blob/main/LICENSE) 
 
